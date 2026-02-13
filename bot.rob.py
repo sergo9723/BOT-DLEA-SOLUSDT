@@ -16,7 +16,7 @@ symbol = "SOLUSDT"
 BASE_COIN = "SOL"
 TESTNET = False   # True = testnet, False = real
 
-BALANCE_CAP_USDT = 20.0      # лимит (не тратим больше этого)
+BALANCE_CAP_USDT = 6      # лимит (не тратим больше этого)
 ORDER_COUNT = 1              # 2 BUY ордера
 USDT_PER_ORDER = 5.2         # каждый BUY примерно на 5.2 USDT
 
